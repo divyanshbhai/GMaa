@@ -1,0 +1,7 @@
+vosk
+pyaudio
+ollama
+kokoro-onnx
+numpy
+scipy
+sentence-transformers
